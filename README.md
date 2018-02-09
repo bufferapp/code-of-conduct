@@ -64,4 +64,8 @@ Adapted from the [Vox Code of Conduct](http://code-of-conduct.voxmedia.com/?_ga=
 
 #### Revisions/edits log
 
-Jan. 25, 2018: Added “be an ally” in expected behaviors with resource guide. All further revisions will be tracked through Github :) 
+Jan. 25, 2018: Added “be an ally” in expected behaviors with resource guide. All further revisions will be tracked through Github :)
+
+#### This project is licensed under the terms of the MIT license.
+
+This project is open source as a way to transparently share our code of conduct with the community.
