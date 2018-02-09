@@ -1,3 +1,5 @@
+## Buffer's Employee Code of Conduct
+
 Buffer is dedicated to creating an inclusive environment for everyone, regardless of race, ethnicity, religion, color, national origin, age, disability (physical or mental), sexual orientation, gender identity, parental status, marital status, and political affiliation as well as gender expression, mental illness, socioeconomic status or background, neuro(a)typicality, or physical appearance. We're united by Buffer's values, and we celebrate our unique differences.
 
 We put forth this code of conduct not because we anticipate bad behavior, but because we believe in the already exceptional level of respect among the team. We believe that articulating our values and accountabilities to one another reinforces that respect and provides us with clear avenues to correct our culture should it ever stray. We commit to enforce and evolve this code as our team grows.
