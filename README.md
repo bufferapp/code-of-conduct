@@ -50,7 +50,7 @@ We know that you’ll do your best work if you’re happy and comfortable in you
 
 Sometimes, you’ll be a witness to something that seems like it isn’t aligned with our values. Err on the side of caring for your colleagues in situations like these. Even if an incident seems minor, reach out to the person impacted by it to check in. In certain situations, it may even be helpful to speak directly to the person who has violated the code of conduct, a lead, or a member of the People Team directly to voice your concerns.
 
-If you want to speak to a person impacted by an incident or to the person who has violated the code of conduct, but you’re unsure of how to navigate these interactions, try reaching out to Courtney/Director of People or Jenny/Compliance Manager—these conversations are tricky, and we’d like to help you figure out how best to approach them.
+If you want to speak to a person impacted by an incident or to the person who has violated the code of conduct, but you’re unsure of how to navigate these interactions, try reaching out to Melissa/VP of People or Jenny/Compliance Manager—these conversations are tricky, and we’d like to help you figure out how best to approach them.
 
 ### Committing to self-improvement
 
